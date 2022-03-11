@@ -1,0 +1,375 @@
+@import url(../css/reset.css);
+.wrap {
+    max-width: 1280px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.text {
+    width: 1280px;
+    height: 323px;
+    background-color: #6b7582;
+}
+.text1 {
+    font-size: 60px;
+    color: #ffff;
+    position: relative;
+    top: 40px;
+    left: 46px;
+}
+.ul {
+    margin-top: 80px;
+    margin-bottom: 55px;
+    position: relative;
+    left: 46px;
+}
+.ul ul{
+    margin-bottom: 14px;
+}
+.list1 {
+    font-size: 20px;
+    color: #ffff;
+    margin-left: 10px;
+}
+.list2 {
+    font-size: 20px;
+    color: #ffff;
+    margin-left: 10px;
+}
+.list3 {
+    font-size: 20px;
+    color: #ffff;
+    margin-left: 10px;
+}
+.list4 {
+    font-size: 20px;
+    color: #ffff;
+    margin-left: 10px;
+}
+.text3{
+    position: relative;
+    left: 760px;
+    bottom: 270px;
+    right: 49px;
+}
+.block{
+    width: 1280px;
+    height: 290px;
+    color: #f8f8fb;
+    display: flex;
+    color: black;
+}
+.block1{
+    margin-top: 49px;
+    margin-left: 50px;
+}
+.block2{
+    color: #6b7582;
+    font-size: 30px;
+    margin-left: 47px;
+    margin-top: 51px;
+    margin-right: 492px;
+    margin-bottom: 37px;
+}
+.block3{
+    color: #6b7582;
+    font-size: 16px;
+    margin-left: 47px;
+    margin-bottom: 33px;
+    margin-right: 121px;
+}
+.block4{
+    color: #6b7582;
+    font-size: 16px;
+    margin-left: 47px;
+    margin-right: 140px;
+}
+.po1 {
+    width: 1280px;
+    height: 488px;
+    background-color: #efeff0;
+}
+.po2 {
+    font-size: 30px;
+    position: relative;
+    top: 49px;
+    left: 448px;
+    right: 438px;
+    bottom: 31px;
+    color: #6b7582;
+}
+.po3 {
+    position: relative;
+    top: 108px;
+    left: 58px;
+    bottom: 30px;
+}
+.po4 {
+    font-size: 24px;
+    color: #6b7582;
+    position: relative;
+    left: 265px;
+    bottom: 45px;
+}
+.po5 {
+    width: 330px;
+    font-size: 16px;
+    color: #6b7582;
+    position: relative;
+    left: 265px;
+    bottom: 25px;
+}
+.po6 {
+    position: relative;
+    left: 640px;
+    bottom: 146px;
+}
+.po7 {
+    font-size: 24px;
+    color: #6b7582;
+    position: relative;
+    left: 850px;
+    bottom: 299px;
+}
+.po8 {
+    width: 330px;
+    font-size: 16px;
+    color: #6b7582;
+    position: relative;
+    left: 855px;
+    bottom: 281px;
+}
+.po9 {
+    position: relative;
+    left: 58px;
+    bottom: 230px;
+}
+.po10 {
+    font-size: 24px;
+    color: #6b7582;
+    position: relative;
+    left: 265px;
+    bottom: 383px;
+}
+.po11 {
+    width: 350px;
+    font-size: 16px;
+    color: #6b7582;
+    position: relative;
+    left: 265px;
+    bottom: 370px;
+}
+.po12 {
+    position: relative;
+    left: 640px;
+    bottom: 468px;
+}
+.po13 {
+    font-size: 24px;
+    color: #6b7582;
+    position: relative;
+    left: 855px;
+    bottom: 620px;
+}
+.po14 {
+    width: 350px;
+    font-size: 16px;
+    color: #6b7582;
+    position: relative;
+    left: 855px;
+    bottom: 608px;
+}
+.do {
+    width: 1280px;
+    height: 655px;
+    margin-bottom: 50px;
+    background-color: e8e9eb;
+}
+.do9 {
+    color: #6b7582;
+    font-size: 30px;
+    position: relative;
+    left: 443px;
+    right: 429px;
+    top: 47px;
+}
+.do2 {
+   position: relative;
+   top: 106px; 
+   left: 135px;
+}
+.do3 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #ffff;
+    position: relative;
+    left: 217px;
+    bottom: 375px;
+}
+.do4 {
+    width: 290px;
+    height: 68px;
+    background-color: #ffff;
+    position: relative;
+    left: 140px;
+    bottom: 355px;
+}
+.do5 {
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #6b7582;
+    position: relative;
+    left: 170px;
+    bottom: 410px;
+}
+.do6 {
+    width: 240px;
+    font-size: 14px;
+    color: #ffff;
+    position: relative;
+    left: 160px;
+    bottom: 370px;
+}
+.do7 {
+    width: 260px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #ffff;
+    position: relative;
+    left: 155px;
+    bottom: 150px;
+}
+.do8 {
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #6b7582;
+    position: relative;
+    left: 219px;
+    bottom: 180px;
+}
+.do10 {
+    position: relative;
+   left: 480px;
+   bottom: 645px;
+}
+.do11 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #ffff;
+    position: relative;
+    left: 562px;
+    bottom: 1126px;
+}
+.do12 {
+    width: 290px;
+    height: 68px;
+    background-color: #ffff;
+    position: relative;
+    left: 485px;
+    bottom: 1106px;
+}
+.do13 {
+    text-transform: uppercase;
+    font-size: 40px;
+    color: #6b7582;
+    position: relative;
+    left: 555px;
+    bottom: 1161px; 
+}
+.do14 {
+    width: 240px;
+    font-size: 14px;
+    color: #ffff;
+    position: relative;
+    left: 505px;
+    bottom: 1121px;
+}
+.do15 {
+    width: 240px;
+    font-size: 14px;
+    color: #ffff;
+    position: relative;
+    left: 505px;
+    bottom: 1051px;
+}
+.do16 {
+    width: 260px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #ffff;
+    position: relative;
+    left: 500px;
+    bottom: 987px;
+}
+.do17 {
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #6b7582;
+    position: relative;
+    left: 595px;
+    bottom: 1016px;
+}
+.do18 {
+    position: relative;
+    left: 820px;
+    bottom: 1480px;
+}
+.do19 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #ffff;
+    position: relative;
+    left: 902px;
+    bottom: 1961px;
+}
+.do20 {
+    width: 290px;
+    height: 68px;
+    background-color: #ffff;
+    position: relative;
+    left: 825px;
+    bottom: 1941px;
+}
+.do21 {
+    text-transform: uppercase;
+    font-size: 35px;
+    color: #6b7582;
+    position: relative;
+    left: 832px;
+    bottom: 1996px;
+}
+.do22 {
+    width: 240px;
+    font-size: 14px;
+    color: #ffff;
+    position: relative;
+    left: 845px;
+    bottom: 1956px;
+}
+.do23 {
+    width: 260px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #ffff;
+    position: relative;
+    left: 840px;
+    bottom: 1760px;
+}
+.do24 {
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #6b7582;
+    position: relative;
+    left: 890px;
+    bottom: 1790px;
+}
+.tomy{
+    width: 1280px;
+    height: 65px;
+    background-color: #efeff0;
+}
+.tomy1{
+    font-size: 12px;
+    color: #6b7582;
+    text-align: center;
+    line-height: 70px;
+}
